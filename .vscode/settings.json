@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "Authenticaiton",
+        "autoflush",
+        "chatlist",
+        "chatlists",
+        "fastapi",
+        "indiefind",
+        "openai",
+        "passlib",
+        "psycopg",
+        "pydantic",
+        "Respone",
+        "sessionmaker",
+        "sqlalchemy",
+        "sqltypes"
+    ]
+}
